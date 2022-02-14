@@ -31,15 +31,15 @@
 
         <img src="images/earthDay1.jpg" 
         onmouseover="this.src='images/Blue.gif'   " 
-        onmouseout="this.src='images/earthDay1.jpg' " />
+        onmouseout="this.src='images/B.png' " />
 
         <img src="images/earthDay1.jpg" 
         onmouseover="this.src='images/Yellow.gif'   " 
-        onmouseout="this.src='images/earthDay1.jpg'   " />
+        onmouseout="this.src='images/Y.png'   " />
 
         <img src="images/earthDay1.jpg" 
         onmouseover="this.src='images/Pink.gif'   " 
-        onmouseout="this.src='images/earthDay1.jpg'   " />
+        onmouseout="this.src='images/P.png'   " />
 
 
 
