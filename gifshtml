@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <!-- this section of code is css -->
+    <style>
+        img {
+            width: 20vw;
+            display: inline-block;
+            height: 100%;
+            vertical-align: middle;
+        }
+
+        div {
+            text-align: center;
+            /*   margin: auto;
+            width: 100%; */
+        }
+    </style>
+
+    <!-- this section is our html -->
+    <div>
+
+        <img src="images/earthDay1.jpg" 
+        onmouseover="this.src='images/Blue.gif'   " 
+        onmouseout="this.src='images/earthDay1.jpg' " />
+
+        <img src="images/earthDay1.jpg" 
+        onmouseover="this.src='images/Yellow.gif'   " 
+        onmouseout="this.src='images/earthDay1.jpg'   " />
+
+        <img src="images/earthDay1.jpg" 
+        onmouseover="this.src='images/Pink.gif'   " 
+        onmouseout="this.src='images/earthDay1.jpg'   " />
+
+
+
+
+
+    </div>
+
+</body>
+
+</html>
